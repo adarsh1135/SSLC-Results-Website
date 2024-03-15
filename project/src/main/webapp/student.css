@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+.aa{
+	align-content:center;
+	height: 350px;
+	width: 600px;
+	border: 2px solid #00ffff;
+}
+.cc{
+	color: #0080ff;
+	font-size: 25px;
+}
+.tt{
+	position: relative;
+	top: 30px;
+}
+.dd{
+	position: relative;
+	top: 60px;
+}
+.rr{
+	background-color:green;
+	color: white;
+	position: relative;
+	left: 150px;
+	top:120px;
+}
+.qq{
+	color:red;
+	position: relative;
+	top: 150px
+}
+.pp{
+	position: relative;
+	top: 40px;
+}

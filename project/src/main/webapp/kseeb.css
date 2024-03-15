@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+.a{
+	position: relative;
+	top: 20px;
+	left: 300px
+}
+.b{
+	position: relative;
+	bottom: 40px;
+	left: 900px;
+}
+.c{
+	position: relative;
+	top: 40px;
+	left: 300px;
+}
+.d{
+	position: relative;
+	bottom: 20px;
+	left: 900px;
+}
+.pp{
+	position: relative;
+	top: 30px
+}
